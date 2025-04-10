@@ -23,7 +23,7 @@ _NOTE: The tool should be installed and run in a TDX guest with root permission.
 Build and install CC Measurement Tool in a TDX guest.
 
 ```sh
-$ cd cc-measure
+$ cd tdx-measure-python
 $ source setupenv.sh
 ```
 
